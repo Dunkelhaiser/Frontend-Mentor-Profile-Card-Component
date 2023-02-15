@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
--   Solution URL: [https://github.com/KaeserOfHonour/Frontend-Mentor-Profile-Card-Component]
--   Live Site URL: [frontend-mentor-smug-profile-card.netlify.app]
+-   Solution URL: (https://github.com/KaeserOfHonour/Frontend-Mentor-Profile-Card-Component)
+-   Live Site URL: (https://frontend-mentor-smug-profile-card.netlify.app)
 
 ## My process
 
